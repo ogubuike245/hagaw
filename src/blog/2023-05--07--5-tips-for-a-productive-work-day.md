@@ -6,8 +6,9 @@ description: Are you struggling to stay productive at work? These 5 tips will
 author: Ogubuike Emejuru
 date: 2023-05-07T13:30:36.855Z
 tags:
-  - '"post"'
-  - '"featured"'
+  - post
+  - featured
+  - productivity
 image: /assets/images/blog/about-hero.jpg
 imageAlt: A person working on a laptop in a coffee shop
 ---
