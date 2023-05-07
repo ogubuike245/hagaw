@@ -1,5 +1,5 @@
 ---
-title: ": The Benefits of a Morning Routine"
+title: The Benefits of a Morning Routine
 description: Starting your day off on the right foot can set the tone for the
   rest of your day. In this article, we'll explore the benefits of having a
   morning routine and offer some tips for creating one that works for you.
