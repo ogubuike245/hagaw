@@ -7,6 +7,7 @@ author: ogubuike emejuru
 date: 2021-05-01
 tags:
   - post
+  - featured
   - health
   - mindfulness
 image: /assets/images/blog/original-6afd6ea1e6e14fd7ea4ae12d1241ffac.webp
