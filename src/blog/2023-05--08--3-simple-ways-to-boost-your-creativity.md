@@ -7,10 +7,9 @@ date: 2023-05-07T15:15:44.559Z
 tags:
   - post
   - featured
-image: /assets/images/blog/continental.jpg
+image: /assets/images/home-hero.jpg
 imageAlt: A person painting
 ---
-
 
 1. Change your environment: Sometimes, all it takes to spark creativity is a change of scenery. If you're feeling stuck, try working from a different location, like a coffee shop or a park. This can help stimulate your brain and give you a fresh perspective.
 2. Try something new: Creativity thrives on novelty, so try something new to get your creative juices flowing. This could be anything from taking a new class or trying a new hobby to exploring a new part of your city.
