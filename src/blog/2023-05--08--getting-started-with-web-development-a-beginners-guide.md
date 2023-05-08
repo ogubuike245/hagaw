@@ -7,7 +7,7 @@ author: Ogubuike Emejuru
 date: 2023-05-08T18:08:39.181Z
 tags:
   - post
-  - featured
+  - series
   - programming
 image: /images/blog/procreator-ux-design-studio-vzjjpuk53sk-unsplash-1-.jpg
 imageAlt: A person typing on a laptop while learning web development.
