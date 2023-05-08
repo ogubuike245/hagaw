@@ -3,23 +3,27 @@ title: Hagaw Blog
 layout: "base.njk"
 ---
 
-<section class="home-hero">
+<section class="hero">
   <h1>The Blog</h1>
 </section>
-<section class="home-featured">
+<section class="home-section">
   <div class="heading">
     <h1>Featured</h1>
   </div>
-  {%-  for post in collections.featured  | reverse-%}
-    {% include "article-snippet.njk" %}
-  {%- endfor %}
+  <div class="posts">
+    {%-  for post in collections.featured  | reverse-%}
+      {% include "article-snippet.njk" %}
+    {%- endfor %}
+  </div>
 </section>
 <br>
-  <section class="home-featured">
+  <section class="home-section">
     <div class="heading">
       <h1>BLOG SERIES</h1>
     </div>
-    {%-  for post in collections.series  | reverse-%}
-      {% include "article-snippet.njk" %}
-    {%- endfor %}
+    <div class="posts">
+      {%-  for post in collections.series  | reverse-%}
+        {% include "article-snippet.njk" %}
+      {%- endfor %}
+    </div>
   </section>
