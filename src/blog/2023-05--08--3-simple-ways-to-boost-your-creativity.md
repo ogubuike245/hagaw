@@ -7,7 +7,7 @@ date: 2023-05-07T15:15:44.559Z
 tags:
   - post
   - featured
-image: /assets/images/blog/healthy-eats-hero.jpg
+image: /assets/images/blog/continental.jpg
 imageAlt: A person painting
 ---
 
