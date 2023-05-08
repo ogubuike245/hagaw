@@ -1,8 +1,11 @@
 backend:
   name: git-gateway
-  branch: nunjucks
-media_folder: "public/assets/images/blog"
-public_folder: "/assets/images/blog"
+  repo: https://github.com/ogubuike245/hagaw
+  branch: master
+
+display_url: https://hagaw.netlify.app
+media_folder: "public/images/blog"
+public_folder: "/images/blog"
 
 collections:
   - name: "blog"
