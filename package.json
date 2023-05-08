@@ -2,7 +2,6 @@
   "name": "hagaw",
   "version": "1.0.0",
   "description": "",
-  "main": ".eleventy.js",
   "scripts": {
     "start": "eleventy --serve",
     "build": "eleventy"

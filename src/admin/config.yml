@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
+  branch: nunjucks # Branch to update (optional; defaults to master)
   display_url: https://hagaw.netlify.app
 # These lines should *not* be indented
 media_folder: "public/assets/images/blog" # Media files will be stored in the repo under static/images/uploads
