@@ -3,11 +3,24 @@ title: Blog Articles
 layout: "base.njk"
 ---
 
-<div class="section container">
-    <h1 class="section-title">Recent articles</h1>
-    <ul role="list" class="articles__list flow">
-        {%-  for post in collections.post  | reverse-%}
+<section class="blogs-container">
+    <div class="blogs-hero">
+        <h1>All Blogs</h1>
+    </div>
+    <div class="heading">
+        <h1>Post Collection</h1>
+    </div>
+    <div class="slider">
+        {%-  for post in collections.post  -%}
             {% include "article-snippet.njk" %}
         {%- endfor %}
-    </ul>
-</div>
+    </div>
+    <div class="heading">
+        <h1>BLOG SERIES</h1>
+    </div>
+    <div class="slider">
+        {%-  for post in collections.series  | reverse-%}
+            {% include "article-snippet.njk" %}
+        {%- endfor %}
+    </div>
+</section>

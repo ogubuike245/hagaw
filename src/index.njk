@@ -1,5 +1,5 @@
 --- 
-title: Haaga Blog
+title: Hagaw Blog
 layout: "base.njk"
 ---
 
@@ -17,9 +17,9 @@ layout: "base.njk"
 <br>
   <section class="home-featured">
     <div class="heading">
-      <h1>SERIES</h1>
+      <h1>BLOG SERIES</h1>
     </div>
-    {%-  for post in collections.featured  | reverse-%}
+    {%-  for post in collections.series  | reverse-%}
       {% include "article-snippet.njk" %}
     {%- endfor %}
   </section>
