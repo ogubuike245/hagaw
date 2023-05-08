@@ -2,6 +2,8 @@ backend:
   name: git-gateway
   repo: https://github.com/ogubuike245/hagaw
   branch: master
+
+display_url: https://hagaw.netlify.app
 media_folder: "public/assets/images/blog"
 public_folder: "/assets/images/blog"
 
